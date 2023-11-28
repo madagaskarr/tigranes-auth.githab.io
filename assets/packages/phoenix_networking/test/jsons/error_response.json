@@ -1,0 +1,12 @@
+{
+  "errors": [
+    {
+      "code": 2001,
+      "message": "Email format is not valid."
+    },
+    {
+      "code": 2002,
+      "message": "Password format is not valid."
+    }
+  ]
+}
